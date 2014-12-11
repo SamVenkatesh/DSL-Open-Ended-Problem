@@ -1,2 +1,3 @@
 DSL-Open-Ended-Problem
 ======================
+Application in C which allows the user to build a database of their design. So far I've implemented the absolute basics, adding fields, records(user has to choose the datatype of each field) and saving the database. It still has a lot of work. I need to implement editing the database within the program and then an option to read from the files previously created and then edit them accordingly. If I manage all this I'll look into sorting and searching for the icing on top. Error handling is a bitch in and of itself. I'm looking at you segmentation faults.
